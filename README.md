@@ -48,17 +48,13 @@ The TimetableForge system aims to generate an optimal weekly timetable for subje
 
 ## How to Run
 
-1.  Navigate to the `hard` directory:
-    ```bash
-    cd hard
-    ```
-2.  Run the visible tests:
+1.  Run the visible tests:
     ```bash
     node tests/visible.test.js
     ```
     These tests are designed to fail initially. Your goal is to modify `hard/src/**/*.js` files until all tests pass.
 
-3.  (Optional) Run the `runner.js` to generate and view a timetable:
+2.  (Optional) Run the `runner.js` to generate and view a timetable:
     ```bash
     node runner.js
     ```
