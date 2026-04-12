@@ -1,0 +1,29 @@
+[{
+    "id": "CR101",
+    "name": "Classroom 101",
+    "type": "classroom",
+    "capacity": 60,
+    "availability": ["MON_0900_1000", "MON_1000_1100", "TUE_1100_1200", "WED_1400_1500", "THU_0900_1000", "FRI_1000_1100"]
+  },
+  {
+    "id": "CR102",
+    "name": "Classroom 102",
+    "type": "classroom",
+    "capacity": 60,
+    "availability": ["MON_1100_1200", "TUE_0900_1000", "WED_1000_1100", "THU_1400_1500", "FRI_0900_1000"]
+  },
+  {
+    "id": "LAB01",
+    "name": "Computer Lab 1",
+    "type": "lab",
+    "capacity": 30,
+    "availability": ["MON_1400_1500", "MON_1500_1600", "WED_0900_1000", "WED_1000_1100", "FRI_1100_1200", "FRI_1200_1300"]
+  },
+  {
+    "id": "LAB02",
+    "name": "Electronics Lab 2",
+    "type": "lab",
+    "capacity": 30,
+    "availability": ["TUE_1000_1100", "TUE_1100_1200", "THU_1000_1100", "THU_1100_1200"]
+  }
+]

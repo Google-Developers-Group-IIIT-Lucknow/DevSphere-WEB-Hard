@@ -1,0 +1,29 @@
+[{
+    "id": "F001",
+    "name": "Dr. Anya Sharma",
+    "expertise": ["CS301", "EL101"],
+    "maxWeeklyHours": 10,
+    "availability": ["MON_0900_1000", "MON_1000_1100", "TUE_1100_1200", "WED_1400_1500", "THU_0900_1000"]
+  },
+  {
+    "id": "F002",
+    "name": "Prof. Rahul Verma",
+    "expertise": ["CS302", "EL102"],
+    "maxWeeklyHours": 8,
+    "availability": ["TUE_0900_1000", "TUE_1000_1100", "WED_1000_1100", "FRI_1100_1200"]
+  },
+  {
+    "id": "F003",
+    "name": "Dr. Priya Singh",
+    "expertise": ["MA201"],
+    "maxWeeklyHours": 12,
+    "availability": ["MON_1100_1200", "TUE_1400_1500", "WED_0900_1000", "THU_1000_1100", "FRI_1400_1500"]
+  },
+  {
+    "id": "F004",
+    "name": "Prof. Sameer Khan",
+    "expertise": ["EL101"],
+    "maxWeeklyHours": 6,
+    "availability": ["MON_1500_1600", "WED_1100_1200"]
+  }
+]

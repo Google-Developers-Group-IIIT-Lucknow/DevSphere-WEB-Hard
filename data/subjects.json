@@ -1,0 +1,46 @@
+[{
+    "id": "CS301",
+    "name": "Data Structures",
+    "type": "theory",
+    "credits": 4,
+    "weeklyHours": 4,
+    "batchSize": 0,
+    "facultyPreferences": ["F001"]
+  },
+  {
+    "id": "CS302",
+    "name": "Algorithms Lab",
+    "type": "lab",
+    "credits": 2,
+    "weeklyHours": 2,
+    "batchSize": 30,
+    "facultyPreferences": ["F002"]
+  },
+  {
+    "id": "MA201",
+    "name": "Linear Algebra",
+    "type": "theory",
+    "credits": 3,
+    "weeklyHours": 3,
+    "batchSize": 0,
+    "facultyPreferences": ["F003"]
+  },
+  {
+    "id": "EL101",
+    "name": "Elective: AI Basics",
+    "type": "elective",
+    "credits": 3,
+    "weeklyHours": 3,
+    "batchSize": 0,
+    "facultyPreferences": ["F001", "F004"]
+  },
+  {
+    "id": "EL102",
+    "name": "Elective: Web Dev",
+    "type": "elective",
+    "credits": 3,
+    "weeklyHours": 3,
+    "batchSize": 0,
+    "facultyPreferences": ["F002"]
+  }
+]
