@@ -29,6 +29,7 @@ const {
 const subjectsData = require('../data/subjects.json');
 const facultyData = require('../data/faculty.json');
 const roomsData = require('../data/rooms.json');
+const { exit } = require('process');
 
 let subjects, faculties, rooms;
 
@@ -176,7 +177,9 @@ console.log(`Failed: ${failedTests}`);
 
 if (failedTests === 0) {
   console.log('🎉 All tests passed!');
+  process.exit(0);
 } else {
   console.log(`⚠️ ${passedTests}/${totalTests} tests passed`);
+  process.exit(1);
 }
 console.log('\nAll Hard Level tests completed. Fix the incomplete logic and bugs to make them pass!');
